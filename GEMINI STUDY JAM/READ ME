@@ -1,0 +1,24 @@
+For the 1st phase, we encourage our participants to run all of the code, models and fine tuning notebooks locally (that is, on device, on your own computer). In order to do so, we have prepared a handy setup guide, which contains all of the instructions required in order to setup your Python environment required for the same!
+
+Link to Phase 1 prerequisites setup guide:
+https://docs.google.com/document/d/1g9jAz-UE3FSC_jz0nHdh1iXtT9BllLFeD0Xz-P_Eb7g/edit?usp=sharing
+
+Phase 2 will be conducted using cloud platforms like Google Colab, hence you won't be having any local setup required for the same. But still, you will have to gain access to the required Gemma Models, whose steps are mentioned in the following 
+
+Hence, kindly refer to this setup document for Phase 2:
+https://docs.google.com/document/d/1_An4m1Wm0SGqVzWOn3x0j9yFDopKvh7LAGfLH9hY0HU/edit?usp=drivesdk
+
+
+
+For everyone who has followed the instructions to run the setup locally, the notebook has been pushed to the Github linked in the instructions.
+Run "git pull origin main" to ensure you get the latest code on your system
+
+For those following the guide using the Kaggle Notebook:
+Ensure to click "Copy and Edit", so that you can run the notebook yourself
+
+
+A friendly reminder of the task for those who are wondering, the task is as follows:
+1. Use a Gemma model of any parameter to fine tune it using the dataset provided
+2. The model should be tested before and after fine tuning with appropriate prompts (e.g Explain photosynthesis to a 5 year old)
+
+Link to the dataset: https://www.kaggle.com/datasets/snehilsanyal/databricks-dolly-15k-dataset
